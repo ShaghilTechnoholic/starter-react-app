@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25fcf596.css",
+    "main.js": "/static/js/main.d7173498.js",
+    "static/js/703.870eeb6a.chunk.js": "/static/js/703.870eeb6a.chunk.js",
+    "static/js/513.5d2da427.chunk.js": "/static/js/513.5d2da427.chunk.js",
+    "static/js/787.377db761.chunk.js": "/static/js/787.377db761.chunk.js",
+    "static/media/analog-landscape-city-with-buildings 1.png": "/static/media/analog-landscape-city-with-buildings 1.16b423d7255c5ca59210.png",
+    "static/media/Rectangle 30.png": "/static/media/Rectangle 30.26a13f71630d4c428a80.png",
+    "static/media/unit-details-slider one.png": "/static/media/unit-details-slider one.d17fa78d7dd7bbea72d3.png",
+    "static/media/Rectangle 23840.png": "/static/media/Rectangle 23840.1edab34ace76c49a02f1.png",
+    "static/media/units-details-slider-two.png": "/static/media/units-details-slider-two.76cdbf8d88113592cfab.png",
+    "static/media/over-user-img.png": "/static/media/over-user-img.ff7c6b9de6ce3d6a48f0.png",
+    "static/media/office-skyscrapers-business-district 2-2.png": "/static/media/office-skyscrapers-business-district 2-2.26f62b45a63a94457c06.png",
+    "static/media/office-skyscrapers-business-district 2.png": "/static/media/office-skyscrapers-business-district 2.5f624cfb691e94d9bc06.png",
+    "static/media/office-skyscrapers-business-district 2-1.png": "/static/media/office-skyscrapers-business-district 2-1.70b02263a2563d9c775f.png",
+    "static/media/Ellipse 7.png": "/static/media/Ellipse 7.4552ba0cb7b50b6a311b.png",
+    "static/media/Illustration.png": "/static/media/Illustration.82ab63ee2a01f585b369.png",
+    "static/media/not-found-img.png": "/static/media/not-found-img.50c603ff78e1741efc62.png",
+    "static/media/country-house 1.png": "/static/media/country-house 1.6bfcca1835fce1c50926.png",
+    "static/media/vacant-land.png": "/static/media/vacant-land.a3f36dc4c79f7ebcf59a.png",
+    "static/media/tool-02.svg": "/static/media/tool-02.18f4ac45cae1d852c5a923b79cc58c66.svg",
+    "index.html": "/index.html",
+    "static/media/home-03.svg": "/static/media/home-03.ce4789c4ab2dc7bbbefef7af60155cb0.svg",
+    "main.25fcf596.css.map": "/static/css/main.25fcf596.css.map",
+    "main.d7173498.js.map": "/static/js/main.d7173498.js.map",
+    "703.870eeb6a.chunk.js.map": "/static/js/703.870eeb6a.chunk.js.map",
+    "513.5d2da427.chunk.js.map": "/static/js/513.5d2da427.chunk.js.map",
+    "787.377db761.chunk.js.map": "/static/js/787.377db761.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25fcf596.css",
+    "static/js/main.d7173498.js"
+  ]
+}
